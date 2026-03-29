@@ -23,7 +23,7 @@ It simulates a real-world application using:
 ## 🧠 Architecture Diagram (Core Highlight)
 
 <p align="center">
-  <img src="./architecture.webp" alt="AWS 3 Tier Architecture" width="900"/>
+<img src="./application-code/architecture.webp" alt="AWS 3 Tier Architecture" width="900"/>
 </p>
 
 ---
